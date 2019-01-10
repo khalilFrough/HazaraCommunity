@@ -1,0 +1,203 @@
+
+/* general styling for all pages */
+*{
+    font-family: 'Roboto', sans-serif;
+    padding:0;
+    margin:0;
+}
+i{
+   font-size: 18px;
+}
+#youtube{
+    color:red;
+}
+#facebook{
+    color:#3b5998;
+}
+#twitter{
+    color:#0084b4;
+}
+#youtube:hover{
+    color:#00a8e6;
+}
+#facebook:hover{
+    color:#00a8e6;
+}
+#twitter:hover{
+    color:#00a8e6;
+}
+.tm-footer.uk-block {
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.tm-home-slideshow.uk-slideshow-fullscreen{
+    max-height: calc(100vh-80px);
+}
+/*  styling the index page  */
+
+/* styleing the bottom part where there are 3 buttons containing 
+information about different services part */
+.container{
+    max-width: 1050px; 
+    margin: auto;
+    overflow: hidden; 
+    padding: 2rem 1rem; 
+}
+
+.grid-3{
+    display: grid; 
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;  
+}
+
+.center{
+    text-align: center; 
+    margin: auto; 
+}
+
+/* mouse over the buttons at the bottom of the index page */
+
+.uk-button.uk-button-primary:hover{
+    background-color:#6fcef0;
+}
+/* aboutUs page styling starts here */
+  
+.main-container{
+    text-align: center; 
+    margin: auto; 
+}
+.sub-title{
+    color:#6fcef0;
+    font-weight: bold;
+    text-align: left;
+    margin: 30px; 
+}
+.para{
+    margin: 30px;
+    text-align: left;
+}
+.bg-color{
+    background-color: #edffff;
+    padding: 10px 20px; 
+}
+
+/* event page styling starts here */
+    .events {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-gap: 0.7rem;
+     }
+    .events img {
+        width: 100%;
+        border: 3px white solid; 
+    }
+    .events img:hover {
+        opacity: 0.5;
+        border-color: #00a8e6;
+        transition: all 1.5s ease-out; 
+    }
+    .cards{
+        display:grid;
+        grid-template-columns: repeat(4,1fr);
+        grid-gap:20px;
+    }
+
+/* contact page styling starts here */
+.grid-2{
+    display: grid; 
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;  
+    padding-left: 0px;
+}
+.input{
+    height:30px;
+    width:300px;
+    text-align: center;
+    font-size:15px;
+}
+.input:hover{
+    border:3px solid #00a8e6;
+}
+.form{
+    padding:1em 4em; 
+}
+.map-address{
+    padding: 1em 4em;
+}
+
+
+
+/* responsiveness for all pages */
+
+@media screen and (min-width:1171px){
+    .events{
+        grid-template-columns: repeat(3,1fr);
+    }
+   
+}
+
+@media screen and (max-width:1170px){
+    .events{
+    
+        grid-template-columns: repeat(3,1fr);
+    }
+    .grid-3{
+        display: grid; 
+        grid-template-columns: repeat(3,1fr);
+        grid-gap: 20px;  
+    }
+    
+}
+
+@media screen and (max-width: 768px){
+    
+    .grid-3{
+        display: grid; 
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap: 20px;  
+    }
+    .grid-2{
+        display: grid; 
+        grid-template-columns: repeat(1,1fr);
+    }
+    .cards{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        grid-gap: 20px; 
+    }
+    .events{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .uk-navbar-flip.uk-hidden-small{
+        display: none; 
+    }
+}
+/* for mobile screen */
+
+@media screen and (max-width: 500px){
+    .grid-3{
+        grid-template-columns: 1fr;
+
+    }
+    .grid-2{
+        grid-template-columns: 1fr;
+        
+    }
+    .grid-2.bg-color{
+        text-align: center; 
+    }
+    .cards{
+        grid-template-columns: 1fr;
+    }
+    .events{
+        grid-template-columns: 1fr;
+    }
+
+    .form{
+        padding:1em 1.5em; 
+    }
+    .map-address{
+        padding: 1em 1.5em;
+    }
+}
+

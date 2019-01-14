@@ -16,7 +16,7 @@ $pageId=1;
     <div class="uk-slidenav-position " data-uk-slideshow>
         <!-- these will be our slides -->
         <ul class="tm-home-slideshow uk-slideshow uk-slideshow-fullscreen">
-            <li><img src="Media/1.jpeg" alt="community Image">
+            <li><img  src="./Media/1.jpg" alt="community Image">
             <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
             <div>
                     <h1>Hazara Brimbank Community</h1>
@@ -55,7 +55,7 @@ $pageId=1;
             <div class="container">
                 <div class="grid-2">
                     <div class="center">
-                       <img src="../Media/2.jpg" alt="community picture here">
+                       <img id="pic" src="./Media/5.jpg" alt="community picture here">
                     </div>
 
                     <div>

@@ -15,30 +15,18 @@ $pageId=1;
  <!-- the navbar end here -->
     <div class="uk-slidenav-position " data-uk-slideshow>
         <!-- these will be our slides -->
-    <ul class="tm-home-slideshow uk-slideshow uk-slideshow-fullscreen">
-        <li><img src="Media/1.jpeg" alt="community Image">
-           <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
-           <div>
-                <h1>Hazara Brimbank Community</h1>
-                <p>The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</p>
-                <button class="uk-button uk-button-primary uk-button-large">More About Us</button>
-            </div>
-                                                                       
-           </div> 
-     </li>
-        <li><img src="Media/2.jpg" alt="community Image"></li>
-        
-    </ul>
-    <!-- the next and previous pictures -->
-    <a href="" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
-    <a href="" class="uk-slidenav uk-slidenav-contrast uk-slidenav-next" data-uk-slideshow-item="next"></a>
-   
-   <!-- the dotnavs at the bottom of the picture -->
-    <ul class="uk-dotnav uk-dotnav-contrast uk-position-bottom uk-flex-center">
-        <li data-uk-slideshow-item="0"><a href=""></a></li>
-        <li data-uk-slideshow-item="1"><a href=""></a></li>
-    </ul>
-</div>
+        <ul class="tm-home-slideshow uk-slideshow uk-slideshow-fullscreen">
+            <li><img src="Media/1.jpeg" alt="community Image">
+            <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
+            <div>
+                    <h1>Hazara Brimbank Community</h1>
+                    <p>The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</p>
+                    <button class="uk-button uk-button-primary uk-button-large">More About Us</button>                                                        
+            </div> 
+            </li>
+         </ul>
+    </div>
+
 <div class="bg-color">
 <!--  our Programs starts here here -->
 

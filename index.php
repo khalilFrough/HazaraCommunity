@@ -16,7 +16,7 @@ $pageId=1;
     <div class="uk-slidenav-position " data-uk-slideshow>
         <!-- these will be our slides -->
         <ul class="tm-home-slideshow uk-slideshow uk-slideshow-fullscreen">
-            <li><img  src="./Media/1.jpg" alt="community Image">
+            <li><img  src="./Media/communitypic.jpg" alt="community Image" id="CommunityPic">
             <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
             <div>
                     <h1>Hazara Brimbank Community</h1>

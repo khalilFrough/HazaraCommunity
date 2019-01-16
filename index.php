@@ -13,9 +13,12 @@ $pageId=1;
     <?php include dirname(__FILE__).'/includes/header.php';
     ?>
  <!-- the navbar end here -->
+
+
+ 
     <div class="uk-slidenav-position " data-uk-slideshow>
         <!-- these will be our slides -->
-        <ul class="tm-home-slideshow uk-slideshow uk-slideshow-fullscreen">
+        <ul class="tm-home-slideshow uk-slideshow uk-slideshow-fullscreen autoplay:true">
             <li><img  src="./Media/communitypic.jpg" alt="community Image" id="CommunityPic">
             <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
             <div>
@@ -24,8 +27,14 @@ $pageId=1;
                     <button class="uk-button uk-button-primary uk-button-large">More About Us</button>                                                        
             </div> 
             </li>
+            
          </ul>
     </div>
+
+ <!-- the slideshow starts here -->
+ 
+ <!-- the slideshow finishes here -->
+
 
 <div class="bg-color">
 <!--  our Programs starts here here -->

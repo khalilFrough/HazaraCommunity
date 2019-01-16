@@ -69,6 +69,8 @@ $pageId=3;
         </div>
     </main>
 
+   
+
     <!-- the containt of the page finishes here -->
    <?php include dirname(__FILE__).'/includes/footer.php';?>
   

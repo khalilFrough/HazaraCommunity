@@ -8,6 +8,9 @@
       <link rel="stylesheet" type="text/css" href="style.css">
       <!-- link to uikit for responsive webdesging -->
       <link rel="stylesheet" type="text/css" href="/uikit-2/css/uikit.min.css">
+      <link rel="stylesheet" href="/uikit-2/css/components/slideshow.almost-flat.min.css">
+      <link rel="stylesheet" href="/uikit-2/css/components/slidenav.almost-flat.min.css.css">
+      <link rel="stylesheet" href="/uikit-2/css/components/dotnav.almost-flat.min.css">
       <link rel="stylesheet" href="/uikit-2/css/uikit_custom.css">
       <title></title>
   </head>

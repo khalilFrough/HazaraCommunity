@@ -14,12 +14,30 @@ $pageId=1;
     ?>
  <!-- the navbar end here -->
 
+<!-- slideshow practice starts here -->
 
+<div class="slideshow-wrapper">
+            <div class="uk-container uk-container-center">
+                <div class="uk-grid">
+                    <div class="uk-width-1-1">
+                        <div data-uk-slideshow="{autoplay:true}">
+
+                            <ul class="uk-slideshow">
+                                <li><img src="./Media/3.jpg" alt="some bullshit pic here"></li>
+                                <li><img src="./Media/1.jpg" alt=""></li>
+                                <li><img src="./Media/1.jpg" alt=""></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+<!-- slideshow practice finishes here -->
  
     <div class="uk-slidenav-position " data-uk-slideshow>
         <!-- these will be our slides -->
         <ul class="tm-home-slideshow uk-slideshow uk-slideshow-fullscreen autoplay:true">
-            <li><img  src="./Media/communitypic.jpg" alt="community Image" id="CommunityPic">
+            <li><img  src="" alt="community Image" id="CommunityPic">
             <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
             <div>
                     <h1>Hazara Brimbank Community</h1>

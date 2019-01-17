@@ -20,12 +20,33 @@ $pageId=1;
             <div class="uk-container uk-container-center">
                 <div class="uk-grid">
                     <div class="uk-width-1-1">
-                        <div data-uk-slideshow="{autoplay:true}">
+                        <div class="uk-slidenav-position"data-uk-slideshow="{autoplay:true, autoplayInterval:5000,duration:1000, animation: 'fade', kenburns:true}">
 
-                            <ul class="uk-slideshow">
-                                <li><img src="./Media/3.jpg" alt="some bullshit pic here"></li>
-                                <li><img src="./Media/1.jpg" alt=""></li>
-                                <li><img src="./Media/1.jpg" alt=""></li>
+                            <ul class="uk-slideshow uk-overlay-active">
+                                <li><img src="./Media/1.jpg" alt="some bullshit pic here">
+                                    <!-- overlay -->
+                                    <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade">
+            
+                                            <h1 class="uk-text-center">Hazara Brimbank Community</h1>
+                                            <p class="uk-text-center">The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</p>
+                                            <button class="uk-button uk-button-primary uk-button-large">More About Us</button>                                                        
+    
+                                    </div>
+<!-- overlay finishes -->
+                                </li>
+                                <li><img src="./Media/2.jpg" alt=""></li>
+                                <li><img src="./Media/3.jpg" alt=""></li>
+                                
+                            </ul>
+                                <!-- the previouse and next buttons -->
+                            <a href="" class="uk-slidenav uk-slidenav-contrast uk-slidenav-previous" data-uk-slideshow-item="previous"></a>
+                            <a href="" class="uk-slidenav uk-slidenav-contrast uk-slidenav-next" data-uk-slideshow-item="next"></a>
+                            <!-- the dots at the bottom -->
+
+                            <ul class="uk-dotnav uk-dotnav-contrast uk-position-bottom uk-flex-center">
+                                <li data-uk-slideshow-item="0"><a href=""></a></li>
+                                <li data-uk-slideshow-item="1"><a href=""></a></li>
+                                <li data-uk-slideshow-item="2"><a href=""></a></li>
                             </ul>
                         </div>
                     </div>
@@ -33,26 +54,6 @@ $pageId=1;
             </div>
         </div>
 <!-- slideshow practice finishes here -->
- 
-    <div class="uk-slidenav-position " data-uk-slideshow>
-        <!-- these will be our slides -->
-        <ul class="tm-home-slideshow uk-slideshow uk-slideshow-fullscreen autoplay:true">
-            <li><img  src="" alt="community Image" id="CommunityPic">
-            <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade uk-flex uk-flex-center uk-flex-middle uk-text-center">
-            <div>
-                    <h1>Hazara Brimbank Community</h1>
-                    <p>The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</p>
-                    <button class="uk-button uk-button-primary uk-button-large">More About Us</button>                                                        
-            </div> 
-            </li>
-            
-         </ul>
-    </div>
-
- <!-- the slideshow starts here -->
- 
- <!-- the slideshow finishes here -->
-
 
 <div class="bg-color">
 <!--  our Programs starts here here -->

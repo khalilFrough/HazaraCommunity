@@ -25,14 +25,14 @@ $pageId=1;
                             <ul class="uk-slideshow uk-overlay-active">
                                 <li><img src="./Media/1.jpg" alt="some bullshit pic here">
                                     <!-- overlay -->
-                                    <div class="uk-overlay-panel uk-overlay-background uk-overlay-fade">
-            
+                    
+                                     <div class="uk-overlay-panel uk-overlay-background">
                                             <h1 class="uk-text-center">Hazara Brimbank Community</h1>
-                                            <p class="uk-text-center">The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</p>
-                                            <button class="uk-button uk-button-primary uk-button-large">More About Us</button>                                                        
-    
-                                    </div>
-<!-- overlay finishes -->
+                                            <p class="uk-text-center">The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</p>   
+                                            <p class="uk-text-center"><a href="aboutUs.php" class="uk-button-primary uk-button uk-button-large">About Us</a></p> 
+                                     </div>
+                                
+                                    <!-- overlay finishes -->           
                                 </li>
                                 <li><img src="./Media/2.jpg" alt=""></li>
                                 <li><img src="./Media/3.jpg" alt=""></li>

@@ -35,7 +35,7 @@ $pageId=1;
                                 
                                     <!-- overlay finishes -->           
                                 </li>
-                                <li><img src="./Media/2.jpg" alt=""></li>
+                                <li><img src="./Media/CommunityPic.jpg" alt=""></li>
                                 <li><img src="./Media/3.jpg" alt=""></li>
                                 
                             </ul>

@@ -47,7 +47,7 @@ information about different services part */
 .grid-3{
     display: grid; 
     grid-template-columns: repeat(3, 1fr);
-    grid-gap: 20px;  
+    grid-gap: 2em;  
 }
 /* .uk-position-bottom.uk-button.uk-button-primary.uk-button-large{
     margin:400px auto;
@@ -60,6 +60,9 @@ information about different services part */
 .center{
     text-align: center; 
     margin: auto; 
+}
+.far.fa-users-class{
+    color:black;
 }
 
 /* mouse over the buttons at the bottom of the index page */

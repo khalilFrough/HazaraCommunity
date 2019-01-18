@@ -9,6 +9,8 @@ function printHead($pageTitle)
       <meta http-equiv="X-UA-Compatible" content="ie=edge">
       <!-- link to googlefonts -->
       <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+      <!-- font awesome -->
+      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
       <!-- link to custom CSS -->
       <link rel="stylesheet" type="text/css" href="style.css">
       <!-- link to uikit for responsive webdesging -->

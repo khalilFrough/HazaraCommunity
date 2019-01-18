@@ -61,17 +61,20 @@ $pageId=1;
     <div class="container grid-3 center">
         <button class="uk-button uk-button-primary">
             <h1>Dari Classes</h1>
+            <i class="fas fa-chalkboard-teacher fa-5x"></i>
             <div> <img src="" alt="Altaf Khan's picture"></div>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, quam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
         </button>
         <button class="uk-button uk-button-primary">
             <h1>Events</h1>
+            <i class="fas fa-calendar-week fa-5x"></i>
             <div> <img src="" alt="Altaf Khan's picture"></div>
             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
         </button>
 
         <button id="btn" class="uk-button uk-button-primary">
             <h1>Community Support</h1>
+            <i class="fas fa-hands-helping fa-5x"></i>
             <div> <img src="" alt="Altaf Khan's picture"></div>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, delectus?Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
         </button>

@@ -28,7 +28,8 @@ $pageId=1;
                     
                                      <div class="uk-overlay-panel uk-overlay-background">
                                             <h1 class="uk-text-center">Hazara Brimbank Community</h1>
-                                            <p class="uk-text-center">The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</p>   
+                                            <h3 class="uk-text-center">The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</h3>   
+                                            <p class="uk-text-center"><button id="secreat"href="#" class="uk-button uk-button-primary uk-button-small">About Us</button></p>
                                             <p class="uk-text-center"><a href="aboutUs.php" class="uk-button-primary uk-button uk-button-large">About Us</a></p> 
                                      </div>
                                 
@@ -54,29 +55,29 @@ $pageId=1;
             </div>
         </div>
 <!-- slideshow practice finishes here -->
-
 <div class="bg-color">
 <!--  our Programs starts here here -->
     <div class="container grid-3 center">
-        <button class="uk-button uk-button-primary">
-            <h1>Dari Classes</h1>
-            <i class="fas fa-chalkboard-teacher fa-5x"></i>
-            <div> <img src="" alt="Altaf Khan's picture"></div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, quam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-        </button>
-        <button class="uk-button uk-button-primary">
-            <h1>Events</h1>
-            <i class="fas fa-calendar-week fa-5x"></i>
-            <div> <img src="" alt="Altaf Khan's picture"></div>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-        </button>
 
-        <button id="btn" class="uk-button uk-button-primary">
-            <h1>Community Support</h1>
+         <a class="programs uk-button uk-button-primary">
+            <h2>Community Support</h2>
             <i class="fas fa-hands-helping fa-5x"></i>
-            <div> <img src="" alt="Altaf Khan's picture"></div>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, delectus?Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-        </button>
+        </a>
+
+        <a class="programs uk-button uk-button-primary">
+            <h2>Dari Classes</h2>
+            <i class="fas fa-chalkboard-teacher fa-5x"></i>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, quam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
+        </a>
+
+        <a class="programs uk-button uk-button-primary">
+            <h2>Events</h2>
+            <i class="fas fa-calendar-week fa-5x"></i>
+            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
+        </a>
+
+     
         
     </div>
     <!-- our purpose starts from here -->
@@ -91,10 +92,8 @@ $pageId=1;
                     <div>
                         <h3>All about us</h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias mollitia sed soluta tempore labore perspiciatis eum eligendi ea? Distinctio, totam!</p>
-
                     </div>
-                </div>
-                   
+                </div> 
             </div>
         </div>
     </section>

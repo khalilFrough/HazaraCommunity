@@ -18,7 +18,7 @@
 
        <a href="#small-menu" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
        <div class="uk-navbar-content uk-navbar-center uk-visible-small">
-           <a href="#"> <img width="120px" height="90px" src="/Media/Logos/1.jpg"></a>
+           <a href="#"> <img width="129px" height="90px" style="background:transparent;" src="/Media/Logos/1.jpg"></a>
        </div>
    </div>
 </nav>

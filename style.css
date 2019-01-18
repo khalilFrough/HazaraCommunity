@@ -53,7 +53,7 @@ information about different services part */
     margin:400px auto;
 } */
 .uk-overlay-panel.uk-overlay-background{
-    margin:200px auto;
+    margin:8em auto;
     background:transparent;
 }
 
@@ -66,6 +66,15 @@ information about different services part */
 
 .uk-button.uk-button-primary:hover{
     background-color:#6fcef0;
+}
+section{
+    text-align: center;
+    margin:auto;
+}
+.programs.uk-button.uk-button-primary{
+    padding: 2rem 1rem;
+
+
 }
 /* aboutUs page styling starts here */
   
@@ -144,7 +153,9 @@ textarea:hover{
     .events{
         grid-template-columns: repeat(3,1fr);
     }
-   
+    #secreat{
+        display:none;
+    }
 }
 
 @media screen and (max-width:1170px){
@@ -157,6 +168,10 @@ textarea:hover{
         grid-template-columns: repeat(3,1fr);
         grid-gap: 20px;  
     }
+    .uk-navbar-brand.uk-hidden-small{
+        display:none;
+    }
+    
     
 }
 
@@ -165,7 +180,8 @@ textarea:hover{
     .grid-3{
         display: grid; 
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 20px;  
+        grid-gap: 10px; 
+ 
     }
     .grid-2{
         display: grid; 
@@ -174,7 +190,7 @@ textarea:hover{
     .cards{
         display: grid;
         grid-template-columns: repeat(2,1fr);
-        grid-gap: 20px; 
+        grid-gap: 10px; 
     }
     .events{
         grid-template-columns: repeat(2,1fr);
@@ -182,13 +198,17 @@ textarea:hover{
     .uk-navbar-flip.uk-hidden-small{
         display: none; 
     }
+    .uk-text-center>a{
+        display:none;
+    }
 }
 /* for mobile screen */
 
 @media screen and (max-width: 500px){
     .grid-3{
         grid-template-columns: 1fr;
-
+        margin-top:0px;
+        margin-bottom:0px;
     }
     .grid-2{
         grid-template-columns: 1fr;
@@ -210,7 +230,41 @@ textarea:hover{
     .map-address{
         padding: 1em 1.5em;
     }
+   
 
-    
+    .uk-overlay-panel.uk-overlay-background{
+        padding:0px;
+        margin:0.2em 0.1em;
+        background:transparent;
+    }
+    .uk-text-center{
+        font-size:0.8em;
+        margin:0px;
+        padding:0px;
+    }
+    .uk-text-center>a{
+        display:none;
+    }
+    #secreat{
+        display:show;
+    }
+    .uk-slidenav.uk-slidenav-contrast.uk-slidenav-previous{
+        font-size:2em;
+    }
+    .uk-slidenav.uk-slidenav-contrast.uk-slidenav-next{
+        font-size:2em;
+    }
+    .uk-dotnav.uk-dotnav-contrast.uk-position-bottom.uk-flex-center{
+        display:none;
+    }
+
+    .container.grid-3.center{
+        margin:0px 0px;
+        padding:0px 0px;
+    }
+    .container{
+        margin:10px 0px;
+        padding:0px 0px;  
+    }
 }
 

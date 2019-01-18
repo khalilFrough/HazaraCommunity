@@ -26,7 +26,7 @@ $pageId=4;
                   <input  class="input" type="email" name="email" id="email"placeholder="your email please" required>
                   
                   <p><span><label for="message">Message:</label></span></p>
-                  <textarea type="text" name="message" id="message" rows="10"cols="35" ></textarea>
+                  <textarea type="text" name="message" id="message" rows="10"cols="32"></textarea>
 
                   <p><span><label for="rememberMe">Remember me:</label></span>
                   <input type="checkbox"name="remember"id="rememberMe"></p>

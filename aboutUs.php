@@ -38,10 +38,10 @@ $pageId=2;
     <div class="uk-card-header">
         <div class="uk-grid-small uk-flex-middle" uk-grid>
             <div class="uk-width-auto">
-                <img class="uk-border-circle" width="120" height="120" src="face.jpg">
+                <img class="uk-border-circle" width="120" height="120" src="./Media/faces/face2.jpg">
             </div>
             <div class="uk-width-expand">
-                <h3 class="uk-card-title uk-margin-remove-bottom">Title</h3>
+                <h3 class="uk-card-title uk-margin-remove-bottom">Liaison officer</h3>
             </div>
         </div>
     </div>
@@ -57,10 +57,10 @@ $pageId=2;
     <div class="uk-card-header">
         <div class="uk-grid-small uk-flex-middle" uk-grid>
             <div class="uk-width-auto">
-                <img class="uk-border-circle" width="120" height="120" src="face.jpg">
+                <img class="uk-border-circle" width="120" height="120" src="./Media/faces/face1.jpg">
             </div>
             <div class="uk-width-expand">
-                <h3 class="uk-card-title uk-margin-remove-bottom">Title</h3>
+                <h3 class="uk-card-title uk-margin-remove-bottom">Casher</h3>
             </div>
         </div>
     </div>
@@ -74,10 +74,10 @@ $pageId=2;
     <div class="uk-card-header">
         <div class="uk-grid-small uk-flex-middle" uk-grid>
             <div class="uk-width-auto">
-                <img class="uk-border-circle" width="120" height="120" src="face.jpg">
+                <img class="uk-border-circle" width="120" height="120" src="./Media/faces/face3.jpg">
             </div>
             <div class="uk-width-expand">
-                <h3 class="uk-card-title uk-margin-remove-bottom">Title</h3>
+                <h3 class="uk-card-title uk-margin-remove-bottom">Community Leader</h3>
             </div>
         </div>
     </div>
@@ -91,10 +91,10 @@ $pageId=2;
     <div class="uk-card-header">
         <div class="uk-grid-small uk-flex-middle" uk-grid>
             <div class="uk-width-auto">
-                <img class="uk-border-circle" width="120" height="120" src="face.jpg">
+                <img class="uk-border-circle" width="120" height="120" src="./Media/faces/face4.jpg">
             </div>
             <div class="uk-width-expand">
-                <h3 class="uk-card-title uk-margin-remove-bottom">Title</h3>
+                <h3 class="uk-card-title uk-margin-remove-bottom">Events Coordinator</h3>
             </div>
         </div>
     </div>

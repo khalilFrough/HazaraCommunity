@@ -57,7 +57,6 @@ $pageId=1;
 
 <div class="bg-color">
 <!--  our Programs starts here here -->
-
     <div class="container grid-3 center">
         <button class="uk-button uk-button-primary">
             <h1>Dari Classes</h1>

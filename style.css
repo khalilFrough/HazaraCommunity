@@ -125,6 +125,10 @@ information about different services part */
 .input:hover{
     border:3px solid #00a8e6;
 }
+textarea:hover{
+    border:3px solid #00a8e6;
+}
+
 .form{
     padding:1em 4em; 
 }

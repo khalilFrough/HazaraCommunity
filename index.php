@@ -55,49 +55,49 @@ $pageId=1;
             </div>
         </div>
 <!-- slideshow practice finishes here -->
-<div class="bg-color">
-<!--  our Programs starts here here -->
-    <div class="container grid-3 center">
+    <div class="uk-container uk-container-center">
+            <div class="bg-color">
+            <!--  our Programs starts here here -->
+                <div class="container grid-3 center">
 
-         <a class="programs uk-button uk-button-primary">
-            <h2>Community Support</h2>
-            <i class="fas fa-hands-helping fa-5x"></i>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, delectus?Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-        </a>
+                    <a class="programs uk-button uk-button-primary">
+                        <h2>Community Support</h2>
+                        <i class="fas fa-hands-helping fa-5x"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, delectus?Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
+                    </a>
 
-        <a class="programs uk-button uk-button-primary">
-            <h2>Dari Classes</h2>
-            <i class="fas fa-chalkboard-teacher fa-5x"></i>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, quam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-        </a>
+                    <a class="programs uk-button uk-button-primary">
+                        <h2>Dari Classes</h2>
+                        <i class="fas fa-chalkboard-teacher fa-5x"></i>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, quam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
+                    </a>
 
-        <a class="programs uk-button uk-button-primary">
-            <h2>Events</h2>
-            <i class="fas fa-calendar-week fa-5x"></i>
-            <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-        </a>
+                    <a class="programs uk-button uk-button-primary">
+                        <h2>Events</h2>
+                        <i class="fas fa-calendar-week fa-5x"></i>
+                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
+                    </a>
+                    
+                </div>
+                <!-- our purpose starts from here -->
+                <section>
+                    <div class="bg-light">
+                        <div class="container">
+                            <div class="grid-2">
+                                <div class="center">
+                                <img id="pic" src="./Media/5.jpg" alt="community picture here">
+                                </div>
 
-     
-        
-    </div>
-    <!-- our purpose starts from here -->
-    <section>
-        <div class="bg-light">
-            <div class="container">
-                <div class="grid-2">
-                    <div class="center">
-                       <img id="pic" src="./Media/5.jpg" alt="community picture here">
+                                <div>
+                                    <h3>All about us</h3>
+                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias mollitia sed soluta tempore labore perspiciatis eum eligendi ea? Distinctio, totam!</p>
+                                </div>
+                            </div> 
+                        </div>
                     </div>
-
-                    <div>
-                        <h3>All about us</h3>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias mollitia sed soluta tempore labore perspiciatis eum eligendi ea? Distinctio, totam!</p>
-                    </div>
-                </div> 
+                </section>
             </div>
-        </div>
-    </section>
-</div>
+      </div>      
     <!-- our purpose finishes here -->
     
 <!-- start of footer-->

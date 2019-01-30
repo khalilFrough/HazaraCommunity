@@ -11,7 +11,8 @@ $pageId=4;
    <!-- the navbar starts the here, the function is called form the file tool.php  -->
     <?php include dirname(__FILE__).'/includes/header.php';?>
     <!-- the navbar end here -->
-   
+  <div class="uk-container uk-container-center">  
+   <main>
     <div class=" grid-2 bg-color contact-center">
          <!--  the form starts here -->
          <div class="form">
@@ -47,13 +48,8 @@ $pageId=4;
             <p>Email address: <a href="mailto:exmaple@yahoo.com">example@yahoo.com</a> </p>
          </div>
       </div>
-        
-        
-   
-
-
-
-   
+   </main>
+   </div>
    <?php include dirname(__FILE__).'/includes/footer.php';?>
   
 </body>

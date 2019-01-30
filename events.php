@@ -15,7 +15,7 @@ $pageId=3;
   
     
     <!-- the containt of the page start here -->
-
+<div class="uk-container uk-container-center">
     <main class="bg-color">
         <h1 class="lg-heading"> Our Events and Programs </h1>
         <h2 class="sm-heading">check out some of our Events and Programs</h2>
@@ -68,7 +68,7 @@ $pageId=3;
             </div>
         </div>
     </main>
-
+</div>
    
 
     <!-- the containt of the page finishes here -->

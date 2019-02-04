@@ -3,7 +3,7 @@
 <?php
 $pageId=4;
  include dirname(__FILE__).'/includes/tools.php';
- printHead('Contact Us');
+ printHead('ContactUs');
 
 ?>
 

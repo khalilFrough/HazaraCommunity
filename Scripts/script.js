@@ -7,6 +7,11 @@ of the functions are inside the IIFE
 
 let app;
 (function (app) {
+    let title=document.title;
+    function validation(){
+
+    }
+
 
     //  this function is created to animate the pictures in the index page
     function pictureSlides() {
@@ -27,10 +32,22 @@ let app;
             else {
                 index = 0;
             }
+            
         }
 
-        window.setInterval(changePic, 2000);
-    }
 
+
+        setInterval(changePic,2000)
+    }
+    function switchMenu(){
+        switch(title){
+            case "Home":
+            changePic();
+            break; 
+            case "ContactUs":
+            validation();
+            break; 
+        }
+    }
     window.addEventListener("load", pictureSlides);
 })(app || (app = {}))

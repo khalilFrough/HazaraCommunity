@@ -59,24 +59,42 @@ $pageId=1;
             <div class="bg-color">
             <!--  our Programs starts here here -->
                 <div class="container grid-3 center">
-
-                    
-                        <h2>Community Support</h2>
-                        <i class="fas fa-hands-helping fa-5x"></i>
+                    <div class="center">
+                        <h3>Community Support</h3>
+                        <i class="fas fa-hands-helping fa-3x"></i>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, delectus?Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                    
+                        <a href="#" class="btn-primary">Read more</a>
+                    </div>
 
-                   
-                        <h2>Dari Classes</h2>
-                        <i class="fas fa-chalkboard-teacher fa-5x"></i>
+                    <div class="center">
+                        <h3>Classes</h3>
+                        <i class="fas fa-chalkboard-teacher fa-3x"></i>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, quam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                    
+                        <a href="#" class="btn-primary">Read more</a>
+                    </div>
 
-                   
-                        <h2>Events</h2>
-                        <i class="fas fa-calendar-week fa-5x"></i>
+                    <div class="center">
+                        <h3>Events</h3>
+                        <i class="fas fa-calendar-week fa-3x"></i>
                         <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                    
+                        <a href="#" class="btn-primary">Read more</a>
+                    </div>
+                    <div class="center">
+                        <h3>Volunteering</h3>
+                        <i class="fas fa-praying-hands fa-3x"></i>                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
+                        <a href="#" class="btn-primary">Read more</a>
+                    </div>
+                    <div class="center">
+                        <h3>Activites</h3>
+                        <i class="fas fa-skating fa-3x"></i>                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
+                        <a href="#" class="btn-primary">Read more</a>
+                    </div>
+                    <div class="center">
+                        <h3>Sports</h3>
+                        <i class="fas fa-football-ball fa-3x"></i>
+                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
+                        <a href="#" class="btn-primary">Read more</a>
+                    </div>
                     
                 </div>
                 <!-- our purpose starts from here -->

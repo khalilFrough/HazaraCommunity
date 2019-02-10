@@ -24,3 +24,4 @@
 <script src="/uikit-2/js/components/slideshow-fx.min.js"></script>
 <!-- custom JavaScrip here -->
 <script src="../Scripts/script.js"></script>
+<script src="../Scripts/app.js"></script>

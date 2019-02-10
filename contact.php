@@ -18,17 +18,17 @@ $pageId=4;
          <div class="form">
                <form action="" method="post">
                   <p><span><label for="name">Name:</label></span> </p>
-                  <input class="input" type="text" name="name" id="name" placeholder="eg. First Last" required>
-            
+                  <input class="input" type="text" name="name" id="name" onkeyup="nameValidation();" placeholder="eg. First Last" required>
+                  <p><span id="nameError"></span></p>
                   <p><span><label for="phone">Phone:</label></span></p>
-                  <input class="input" type="text "name="phone"id="phone"placeholder="eg. 0450 442 424" required> 
-                  
+                  <input class="input" type="text "name="phone"id="phone" onkeyup="phoneValidation();"placeholder="eg. 0450 442 424" required> 
+                  <p><span id="phoneError"></span></p>
                   <p><span><label for="email">Email:</label></span></p>
-                  <input  class="input" type="email" name="email" id="email"placeholder="your email please" required>
-                  
+                  <input  class="input" type="email" name="email" onkeyup="emailValidation();" id="email"placeholder="your email please" required>
+                  <p><span id="emailError"></span></p>
                   <p><span><label for="message">Message:</label></span></p>
-                  <textarea type="text" name="message" id="message" rows="10"cols="32"></textarea>
-
+                  <textarea  name="message" onkeyup="messageValidation();" id="message" rows="10"cols="32"></textarea>
+                  <p><span id="msg"></span></p>
                   <p><span><label for="rememberMe">Remember me:</label></span>
                   <input type="checkbox"name="remember"id="rememberMe"></p>
                   <div class="submit-button">

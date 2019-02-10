@@ -9,7 +9,6 @@
                 <a href=""><i id="youtube"class="uk-icon-youtube-play"></i></a>
         </div>
         <div class="uk-width-meduim-1-2 uk-text-right uk-text-center-small">&copy; copyright: Hazara community Brimbank
-
         </div>
 </div>
     </div>
@@ -24,4 +23,5 @@
 <script src="/uikit-2/js/components/slideshow-fx.min.js"></script>
 <!-- custom JavaScrip here -->
 <script src="../Scripts/script.js"></script>
+<script src="../Scripts/contact.js"></script>
 <script src="../Scripts/app.js"></script>

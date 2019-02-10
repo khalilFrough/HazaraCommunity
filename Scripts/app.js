@@ -17,6 +17,7 @@
                 case "Events":
                 break; 
                 case "ContactUs":
+                //contactUs.nameValidation();
                 break; 
                 default:
                 break; 

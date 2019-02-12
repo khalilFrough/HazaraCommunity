@@ -4,9 +4,9 @@
         <div class="uk-grid">
         <div class="uk-width-medium-1-2 uk-text-center-small">
                 Follow Us:
-                <a href=""><i id="twitter" class="uk-icon-twitter"></i></a>
-                <a href=""><i id="facebook"class="uk-icon-facebook"></i></a>
-                <a href=""><i id="youtube"class="uk-icon-youtube-play"></i></a>
+                <a href=""><i id="twitter"class="fab fa-facebook-f"></i></a>
+                <a href=""><i id="facebook"class="fab fa-twitter"></i></a>
+                <a href=""><i id="youtube"class="fab fa-youtube"></i></a>
         </div>
         <div class="uk-width-meduim-1-2 uk-text-right uk-text-center-small">&copy; copyright: Hazara community Brimbank
         </div>

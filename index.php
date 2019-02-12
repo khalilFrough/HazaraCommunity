@@ -23,7 +23,7 @@ $pageId=1;
                         <div class="uk-slidenav-position"data-uk-slideshow="{autoplay:true, autoplayInterval:5000,duration:1000, animation: 'fade', kenburns:true}">
 
                             <ul class="uk-slideshow uk-overlay-active">
-                                <li><img src="./Media/1.jpg" alt="some bullshit pic here">
+                                <li><img src="./Media/indexPics/community1.jpg" alt="some bullshit pic here">
                                     <!-- overlay -->
                     
                                      <div class="uk-overlay-panel uk-overlay-background">
@@ -35,8 +35,8 @@ $pageId=1;
                                 
                                     <!-- overlay finishes -->           
                                 </li>
-                                <li><img src="./Media/CommunityPic.jpg" alt=""></li>
-                                <li><img src="./Media/3.jpg" alt=""></li>
+                                <li><img src="./Media/indexPics/community2.jpg" alt=""></li>
+                                <li><img src="./Media/indexPics/community3.jpg" alt=""></li>
                                 
                             </ul>
                                 <!-- the previouse and next buttons -->
@@ -58,6 +58,7 @@ $pageId=1;
     <div class="uk-container uk-container-center">
             <div class="bg-color">
             <!--  our Programs starts here here -->
+                <h1 class="titleText">We Facalitate Varity of Activites</h1>
                 <div class="container grid-3 center">
                     <div class="center items">
                         <h3>Community Support</h3>
@@ -106,16 +107,16 @@ $pageId=1;
                 </div>
                 <!-- our purpose starts from here -->
                 <section>
-                    <div class="bg-light">
+                    <div class="bg-light bg-bottom">
                         <div class="container">
                             <div class="grid-2">
                                 <div class="center">
-                                <img id="pic" src="./Media/5.jpg" alt="community picture here">
+                                <img id="pic" src="" alt="community picture here">
                                 </div>
 
                                 <div>
-                                    <h3>All about us</h3>
-                                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias mollitia sed soluta tempore labore perspiciatis eum eligendi ea? Distinctio, totam!</p>
+                                    <h2 class="allAboutUs">All about us</h2>
+                                    <p class="item-left"> Hazara Brimbank Community was established by active members of Hazara Refugees who lives in the Brimbank area. When established the communty had only 10 families registered. by the passage of time and the growth of Hazara communty  and families in the Western Suburbs specially in the Brimbank area the number of communty members also increased. To date, there are more than 120 families registerd in the Hazara Brimbank Community. The community is activlty involoved in social, caltural and tridational events. Please read more in the about us page. </p>
                                 </div>
                             </div> 
                         </div>

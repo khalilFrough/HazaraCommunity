@@ -48,10 +48,18 @@ information about different services part */
     display: grid; 
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 2em;  
+    border:1px solid red; 
 }
 .item-left{
     text-align: justify;
     font-size:1em;
+}
+.titleText{
+    text-align: center;
+    color:#00a8e6;
+}
+.allAboutUs{
+    color:#00a8e6;
 }
 /* .uk-position-bottom.uk-button.uk-button-primary.uk-button-large{
     margin:400px auto;
@@ -66,6 +74,7 @@ information about different services part */
     margin: auto; 
 }
 
+
 /* mouse over the buttons at the bottom of the index page */
 
 .uk-button.uk-button-primary:hover{
@@ -77,9 +86,9 @@ section{
 }
 .programs.uk-button.uk-button-primary{
     padding: 2rem 1rem;
-
-
 }
+
+
 /* aboutUs page styling starts here */
   
 .main-container{
@@ -128,6 +137,7 @@ section{
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;  
     padding-left: 0px;
+    
 }
 .input{
     height:30px;
@@ -148,7 +158,17 @@ textarea:hover{
 .map-address{
     padding: 1em 4em;
 }
-
+/* fixed footer */
+/*ooter.tm-footer.uk-block.uk-block-secondary.uk-contrast{
+ position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:black;
+  color: white;
+  text-align: center;
+  margin-top:2em;
+}*/
 
 
 /* responsiveness for all pages */

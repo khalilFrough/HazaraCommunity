@@ -13,10 +13,10 @@ let content;
     function pictureSlides() {
         // an array to store the pictures
         let imageSource = [
-            "./Media/1.jpeg",
-            "./Media/2.jpg",
-            "./Media/3.jpg",
-            "./Media/4.jpg"
+            "./Media/indexPics/aboutPic1.jpg",
+            "./Media/indexPics/aboutPic2.jpg",
+            "./Media/indexPics/aboutPic3.jpg",
+            "./Media/indexPics/aboutPic4.jpg"
         ];
         let index = 0;
         function changePic() {

@@ -59,41 +59,48 @@ $pageId=1;
             <div class="bg-color">
             <!--  our Programs starts here here -->
                 <div class="container grid-3 center">
-                    <div class="center">
+                    <div class="center items">
                         <h3>Community Support</h3>
                         <i class="fas fa-hands-helping fa-3x"></i>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus, delectus?Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                        <a href="#" class="btn-primary">Read more</a>
+                        <p class="item-left"class="item-left">The communty provides alot of supports around community awareness regarding their rights in Austrlaian community. Furthermore, The communty also arranges public meetings with the local council.</p>
+                        <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
 
-                    <div class="center">
+                    <div class="center itmes">
                         <h3>Classes</h3>
                         <i class="fas fa-chalkboard-teacher fa-3x"></i>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, quam!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                        <a href="#" class="btn-primary">Read more</a>
+                        <p class="item-left">There are alot of activites for the community members, one of the most important acivity is Dari classes for the kids. Interested community memebers can join the classes.</p>
+                        <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
 
-                    <div class="center">
+                    <div class="center items">
                         <h3>Events</h3>
                         <i class="fas fa-calendar-week fa-3x"></i>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                        <a href="#" class="btn-primary">Read more</a>
+                         <p class="item-left">
+                            Nowroz event<br>
+                            Shaban<br>
+                            Eids<br>
+                            Moharam<br>
+                         </p>
+                            
+                        <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
-                    <div class="center">
+                    <div class="center items">
                         <h3>Volunteering</h3>
-                        <i class="fas fa-praying-hands fa-3x"></i>                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                        <a href="#" class="btn-primary">Read more</a>
+                        <i class="fas fa-praying-hands fa-3x"></i>   
+                        <p class="item-left"> The community helps some community members to get engaged in volunteering works with differnt orginization. Currently, two community members are engaged with co-health.</p>
+                        <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
-                    <div class="center">
+                    <div class="center itmes">
                         <h3>Activites</h3>
-                        <i class="fas fa-skating fa-3x"></i>                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                        <a href="#" class="btn-primary">Read more</a>
+                        <i class="fas fa-skating fa-3x"></i><p class="item-left"> The community leader and other volunteers always works hard to compile the list of differnt activites around the Brimbank community for the community members such as play group, and ...</p>
+                        <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
-                    <div class="center">
+                    <div class="center itmes">
                         <h3>Sports</h3>
                         <i class="fas fa-football-ball fa-3x"></i>
-                        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, culpa!Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, nam!</p>
-                        <a href="#" class="btn-primary">Read more</a>
+                        <p class="item-left"> The community has some arrangements with some local sports facalaties to accmodate sports sessions for the community members. Furthermore, community has a soccer team. </p>
+                        <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
                     
                 </div>

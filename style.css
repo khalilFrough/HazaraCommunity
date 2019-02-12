@@ -49,6 +49,10 @@ information about different services part */
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 2em;  
 }
+.item-left{
+    text-align: justify;
+    font-size:1em;
+}
 /* .uk-position-bottom.uk-button.uk-button-primary.uk-button-large{
     margin:400px auto;
 } */

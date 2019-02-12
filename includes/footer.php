@@ -2,15 +2,16 @@
 <footer class="tm-footer uk-block uk-block-secondary uk-contrast">
     <div class="uk-container uk-container-center">
         <div class="uk-grid">
-        <div class="uk-width-medium-1-2 uk-text-center-small">
+            <div class="uk-width-medium-1-2 uk-text-center-small">
                 Follow Us:
-                <a href=""><i id="twitter"class="fab fa-facebook-f"></i></a>
-                <a href=""><i id="facebook"class="fab fa-twitter"></i></a>
+                <a href=""><i id="twitter"class="fab fa-twitter"></i></a>
+                <a href=""><i id="facebook"class="fab fa-facebook-f"></i></a>
                 <a href=""><i id="youtube"class="fab fa-youtube"></i></a>
+             </div>
+            <div class="uk-width-meduim-1-2 uk-text-right uk-text-center-small">
+                &copy; copyright: Hazara community Brimbank
+            </div>
         </div>
-        <div class="uk-width-meduim-1-2 uk-text-right uk-text-center-small">&copy; copyright: Hazara community Brimbank
-        </div>
-</div>
     </div>
 </footer>
 <!-- link to jQuery -->

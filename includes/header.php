@@ -10,9 +10,9 @@
  
        <div class="uk-navbar-flip uk-hidden-small">
            <ul class="uk-navbar-nav">
-               <li><a href="https://www.twitter.com"><i id="twitter" class="uk-icon-twitter"></i></a></li>
-               <li><a href="https://www.facebook.com"><i id="facebook"class="uk-icon-facebook"></i></a></li>
-               <li><a href="https://www.youtube.com"><i id="youtube"class="uk-icon-youtube-play"></i></a></li>
+               <li><a href="https://www.twitter.com"><i id="twitter"class="fab fa-twitter"></i></a></li>
+               <li><a href="https://www.facebook.com"><i id="facebook"class="fab fa-facebook-f"></i></a></li>
+               <li><a href="https://www.youtube.com"><i id="youtube"class="fab fa-youtube"></i></a></li>
            </ul>
        </div>
 

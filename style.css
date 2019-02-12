@@ -130,6 +130,13 @@ section{
         grid-template-columns: repeat(4,1fr);
         grid-gap:20px;
     }
+    .event-title{
+        color:#00a8e6;
+        text-align: center;
+    }
+    .lg-heading{
+        text-align:center;
+    }
 
 /* contact page styling starts here */
 .grid-2{

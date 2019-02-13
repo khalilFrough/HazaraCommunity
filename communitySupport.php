@@ -7,6 +7,7 @@ $pageId=3;
 
 ?>
 <body>
+<div class="uk-container uk-container-center">
 <main class="bg-color">
     <h1 class="lg-heading">This is the Events page</h1>
     <div class="bigImg">
@@ -29,7 +30,7 @@ $pageId=3;
         </div>
     
 </div>
-
+</div>
 </main>
       <!-- the containt of the page finishes here -->
       <?php include dirname(__FILE__).'/includes/footer.php';?>

@@ -66,11 +66,11 @@ $pageId=3;
             </div>
             <div class="item">
                  <h3 class="event-title">Activites</h3>
-                <a href="#">
+                <a href="activites.php">
                 <img src="./Media/eventsPics/activities.jpg" alt="Activites picture here"></a>
                 <p class="item-left">The communty arranges varity of activites for the community members, in the meantime the community leader and other volunteers compile a list of differnt activites which takes place in the western suburbs specially in the Brimbak communty and then disterbutes the list amongs the community members.</p>
                 <br><br>
-                <a href="#" class="uk-button uk-button-primary">Read more</a>
+                <a href="activites.php" class="uk-button uk-button-primary">Read more</a>
             </div>
 
             <div class="item">

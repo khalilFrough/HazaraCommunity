@@ -58,7 +58,7 @@ $pageId=1;
     <div class="uk-container uk-container-center">
             <div class="bg-color">
             <!--  our Programs starts here here -->
-                <h1 class="titleText">We Facalitate Varity of Activites</h1>
+                <h1 class="titleText">We Facilitate Varity of Activites</h1>
                 <div class="container grid-3 center">
                     <div class="center items">
                         <h3>Community Support</h3>

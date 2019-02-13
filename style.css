@@ -178,6 +178,24 @@ textarea:hover{
 }*/
 
 
+/* addtional pages for the event page desgn */
+
+.activityContent{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:1.5em;
+}
+.activity{
+    background-color: black;
+    color:orange;
+    box-shadow: 10px 10px 10px;
+    padding:0.4em; 
+    
+}
+.activity:hover{
+    box-shadow: 1px 1px 1px;
+}
+
 /* responsiveness for all pages */
 
 @media screen and (min-width:1171px){

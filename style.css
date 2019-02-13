@@ -48,7 +48,8 @@ information about different services part */
     display: grid; 
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 2em;  
-    border:1px solid red; 
+    border:1px solid black; 
+    box-shadow:black 1px 1px 10px; 
 }
 .item-left{
     text-align: justify;

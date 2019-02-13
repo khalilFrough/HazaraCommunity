@@ -25,4 +25,5 @@
 <!-- custom JavaScrip here -->
 <script src="../Scripts/script.js"></script>
 <script src="../Scripts/contact.js"></script>
+<script src="../Scripts/community.js"></script>
 <script src="../Scripts/app.js"></script>

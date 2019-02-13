@@ -22,7 +22,7 @@ $pageId=3;
         <div class="events ">
              <div class="item">
                  <h3 class="event-title">Community Support</h3>
-                <a href="#">
+                <a href="communitySupport.php">
                 <img src="./Media/eventsPics/support.jpg" alt="classes picture here"></a>
                 <p class="item-left">The community is activly involved in arraning meeting, seminars and workshop for the community members to raise awarness regarding differnt topics in the community. Such as:
                     <ol>
@@ -30,7 +30,7 @@ $pageId=3;
                         <li>West-Justice seminar</li>
                         <li>local council meetings</li>
                     </ol>  </p>
-                <a href="#" class="uk-button uk-button-primary">Read more</a>
+                <a href="communitySupport.php" class="uk-button uk-button-primary">Read more</a>
             </div>
             
             <div class="item">

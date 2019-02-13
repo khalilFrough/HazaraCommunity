@@ -19,6 +19,9 @@
                 case "ContactUs":
                 //contactUs.nameValidation();
                 break; 
+                case "communitySupport":
+                community.imgClick();
+                break;
                 default:
                 break; 
             }

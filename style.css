@@ -178,7 +178,7 @@ textarea:hover{
 }*/
 
 
-/* addtional pages for the event page desgn */
+/* addtional pages for the event page design */
 
 .activityContent{
     display: grid;
@@ -194,6 +194,35 @@ textarea:hover{
 }
 .activity:hover{
     box-shadow: 1px 1px 1px;
+}
+/* in the events pages the community support document page design */
+.thumbnails{
+    max-width:760px;
+    margin:auto;
+    border:#fff solid 3px; 
+    background: #fff;
+}
+.main-img img,
+.imgs img{
+    width: 100%;
+}
+.imgs{
+    display: grid; 
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1.2rem;
+}
+
+/* animation */
+@keyframes fadeIn{
+    to{
+        opacity:1;
+
+    }
+}
+
+.fade-in{
+    opacity:0; 
+    animation:fadeIn 0.5s ease-in 1 forwards; 
 }
 
 /* responsiveness for all pages */

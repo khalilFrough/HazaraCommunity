@@ -20,7 +20,19 @@ $pageId=2;
                     <h1 class="title"> This is our Community</h1>
                 <div>
                         <h3 class="sub-title">Our History</h3>
-                        <p class="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, dignissimos accusantium quas quisquam officiis blanditiis earum qui impedit alias vel sequi eos neque, sapiente eligendi magnam odio nam? Saepe mollitia eos modi! Iure facilis minus distinctio eum eos tempore nemo non reprehenderit quia voluptatibus quasi, ullam explicabo! Accusamus, molestiae rerum.</p>
+                        <p class="para">
+                        Hazara Solidarity Community of Brimbank officially established in 2014. The Community is legaglly registered at the <a href="https://www.consumer.vic.gov.au"> Consumer Affaris Victoria</a> and has legal rights to conduct caltural, tradtional and religious events with adhereance of Australian law and culture. We conducted successful culture and religious events thought out the year in Western suburb of Melbourne. Such as, ‘Eid’s festivals, Muharam and 15 Shaban etc. We encourage our members to participate in sports. We have different sports team. Such as Volleyball and Soccer. The Volleyball and Soccer teams play every week in different places and occasionally conduct a big tournament. We run language school program in 2016 to 2017 throughout the years for children and for adult with culture classes.
+
+We do have our get to gather party every month in different places, where everyone participate including children, adults, seniors male and females.
+
+We run different workshop thought out the year. Such as, Workshop about employment laws from West justice and Health wellbeing from CoHealth in the past. This year we planning to run work shop on family violence, Tax and awareness about safety water.
+
+We takes parents and children to excursion in different places. Such as, Cinema, Werribee Zoo, Luan park and campaigning.
+
+We run driving school classes for youth D2E drive for employment with the help of other organisation.
+
+We have few big project in future, such as to buy our own place, continue langue school, and help people to establish small business in communities.
+                        </p>
                 </div>
                     
                     <div>

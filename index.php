@@ -64,7 +64,7 @@ $pageId=1;
                         <h3>Community Support</h3>
                         <i class="fas fa-hands-helping fa-3x"></i>
                         <p class="item-left"class="item-left">The community provides a lot of supports around community awareness regarding their rights in Australian community. Furthermore, The community also arranges public meetings with the local council.</p>
-                        <a href="#" class="uk-button uk-button-primary">Read more</a>
+                        <a href="events.php" class="uk-button uk-button-primary">Read more</a>
                     </div>
 
                     <div class="center itmes">
@@ -78,13 +78,14 @@ $pageId=1;
                         <h3>Events</h3>
                         <i class="fas fa-calendar-week fa-3x"></i>
                          <p class="item-left">
-                            Now-roz event<br>
-                            15th Of Shaban<br>
-                            Eids<br>
-                            Moharam<br>
+                        We are a proud community that we celebreate our cultural, tridational and religous events on regular basis.such as: 
+                            Now-roz event,
+                            15th Of Shaban,
+                            Eids, and
+                            Moharam
                          </p>
                             
-                        <a href="#" class="uk-button uk-button-primary">Read more</a>
+                        <a href="events.php" class="uk-button uk-button-primary">Read more</a>
                     </div>
                     <div class="center items">
                         <h3>Volunteering</h3>
@@ -95,13 +96,13 @@ $pageId=1;
                     <div class="center itmes">
                         <h3>Activites</h3>
                         <i class="fas fa-skating fa-3x"></i><p class="item-left"> The community leader and other volunteers always works hard to compile the list of different activates around the Brimbank community for the community members such as play group, and ...</p>
-                        <a href="#" class="uk-button uk-button-primary">Read more</a>
+                        <a href="events.php" class="uk-button uk-button-primary">Read more</a>
                     </div>
                     <div class="center itmes">
                         <h3>Sports</h3>
                         <i class="fas fa-football-ball fa-3x"></i>
                         <p class="item-left"> The community has some arrangements with some local sports facilities to accommodate sports sessions for the community members. Furthermore, community has a soccer team. </p>
-                        <a href="#" class="uk-button uk-button-primary">Read more</a>
+                        <a href="events.php" class="uk-button uk-button-primary">Read more</a>
                     </div>
                     
                 </div>

@@ -21,27 +21,42 @@ $pageId=2;
                 <div>
                         <h3 class="sub-title">Our History</h3>
                         <p class="para">
-                        Hazara Solidarity Community of Brimbank officially established in 2014. The Community is legaglly registered at the <a href="https://www.consumer.vic.gov.au"> Consumer Affaris Victoria</a> and has legal rights to conduct caltural, tradtional and religious events with adhereance of Australian law and culture. We conducted successful culture and religious events thought out the year in Western suburb of Melbourne. Such as, ‘Eid’s festivals, Muharam and 15 Shaban etc. We encourage our members to participate in sports. We have different sports team. Such as Volleyball and Soccer. The Volleyball and Soccer teams play every week in different places and occasionally conduct a big tournament. We run language school program in 2016 to 2017 throughout the years for children and for adult with culture classes.
+                            Hazara Solidarity Community of Brimbank officially established in 2014. The Community is legally registered at the <a href="https://www.consumer.vic.gov.au"> Consumer Affairs Victoria</a> and has the legal rights to conduct cultural, traditional and religious events with adherence of Australian law and culture. So far, we have conducted successful culture and religious events thought out the years in Western suburb of Melbourne. Such as, ‘Eids festivals, Muharam and 15 Shaban and other events.
+                        </p>
+                        <p class="para">
+                        We encourage our members to participate in sports. We have different sports team. Such as Volleyball and Soccer teams. The Volleyball and Soccer teams play every week in different places and occasionally conduct a big tournament. We ran language school program throughout 2016 to 2017 for children. Other than that we run some cultural awareness classes for adults.
+                        </p>
 
-We do have our get to gather party every month in different places, where everyone participate including children, adults, seniors male and females.
+                        <p class="para">
+                        We do have our get to gather party every month in different places, where everyone participates, which includes children, adults, seniors males and females.
+                        </p>
+                        <p class="para">
+                        We facilitated different workshops thought out the year 2018. Such as, Workshop about employment laws from West justice and Health wellbeing from CoHealth. This year (2019) we are planning to run workshop on family violence, Tax and awareness about safety water.
+                        </p>
 
-We run different workshop thought out the year. Such as, Workshop about employment laws from West justice and Health wellbeing from CoHealth in the past. This year we planning to run work shop on family violence, Tax and awareness about safety water.
-
-We takes parents and children to excursion in different places. Such as, Cinema, Werribee Zoo, Luan park and campaigning.
-
-We run driving school classes for youth D2E drive for employment with the help of other organisation.
-
-We have few big project in future, such as to buy our own place, continue langue school, and help people to establish small business in communities.
+                        <p class="para">
+                            We take parents and children to excursion in different places. Such as, Cinema, Werribee Zoo, Luan park and campaigning. Moreover, we run driving school classes for youth and D2E drive for employment with the help of other organisation such as AMES Australia.
+                        </p>
+                        <p class="para">
+                        We have few big projects in the future, such as to buy our own place, continue langue school, and help people to establish small business in the community.
                         </p>
                 </div>
                     
                     <div>
                         <h3 class="sub-title">Our Mission and Values</h3>
-                        <p class="para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi, dignissimos accusantium quas quisquam officiis blanditiis earum qui impedit alias vel sequi eos neque, sapiente eligendi magnam odio nam? Saepe mollitia eos modi! Iure facilis minus distinctio eum eos tempore nemo non reprehenderit quia voluptatibus quasi, ullam explicabo! Accusamus, molestiae rerum.</p>
+                        <p class="para">The Hazara community of Brimbank is a non- profit organisation that promotes culturally based festivals and event with the aim of passing on treasured cultural traditions, thereby enriching the lives of future generation.</p>
+                            <p class="para">
+                                
+                                1- The Hazara community of Brimbank   will help decrease the breaches of laws and it will also decrease the conflicts in families and society.<br>
+                                2- Through Our festival and events, we will get values and chances to increase awareness about other diverse community groups living in Brimbank.<br>
+                                3- Our community members will participate in cultural sports and social events and we will achieve pride and honour for resident of Brimbank.<br>
+                                4- Our group will also aim to hold festival, celebration, language classes and information sessions (Eg. Healthy relationships, legal rights and responsibilities and local services available in Brimbank).<br>
+                                
+                            </p> 
                     </div>
                     <div>
                         <h3 class="sub-title"> Our Team</h3>
-                        <p class="para">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo, dolore!</p>
+                        <p class="para">We have expert team members who are committed to their roles and enjoys working with people.</p>
                 
                     </div>
                     <div class="ourteam">
@@ -56,11 +71,12 @@ We have few big project in future, such as to buy our own place, continue langue
                         </div>
                         <div class="uk-width-expand">
                             <h3 class="uk-card-title uk-margin-remove-bottom">Liaison officer</h3>
+                            <h3>Zia Sultani</h3>
                         </div>
                     </div>
                 </div>
                 <div class="uk-card-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                    <p class="para">Zia Sultani believes in strong communication and strong relationship amongst other communities in Brimbank Area. He is always ready to embrace new challenges. </p>
                 </div>
             </div>
                 
@@ -75,11 +91,12 @@ We have few big project in future, such as to buy our own place, continue langue
                         </div>
                         <div class="uk-width-expand">
                             <h3 class="uk-card-title uk-margin-remove-bottom">Casher</h3>
+                            <h3>Mohammad Asif</h3>
                         </div>
                     </div>
                 </div>
                 <div class="uk-card-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                    <p class="para">Mohammad Asif is an active member of the community who always makes time to support others and devote his time for the need of community.</p>
                 </div>
             </div>
             <!-- the second card finishes here -->
@@ -92,11 +109,12 @@ We have few big project in future, such as to buy our own place, continue langue
                         </div>
                         <div class="uk-width-expand">
                             <h3 class="uk-card-title uk-margin-remove-bottom">Community Leader</h3>
+                            <h3>Altaf Khan</h3>
                         </div>
                     </div>
                 </div>
                 <div class="uk-card-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                    <p class="para">Altaf Khan who is one of the members who devoted his time and energy towards the success of the community. He is Masters of Social work and loves to help people.</p>
                 </div>
             </div>
             <!-- the thrid card finishes here -->
@@ -109,19 +127,17 @@ We have few big project in future, such as to buy our own place, continue langue
                         </div>
                         <div class="uk-width-expand">
                             <h3 class="uk-card-title uk-margin-remove-bottom">Events Coordinator</h3>
+                            <h3>Ali Zadah</h3>
                         </div>
                     </div>
                 </div>
                 <div class="uk-card-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+                    <p class="para">Ali Zadah is one of the founders of the community he has worked hard towards the success of this community and believes in unity and calibrations. </p>
                 </div>
             </div>
             <!-- the forth card finishes here -->   
                 
             </div>
-
-                
-                
                 <!-- the containt of the page start here -->
 
             </main>
@@ -132,3 +148,4 @@ We have few big project in future, such as to buy our own place, continue langue
   
 </body>
 </html>
+

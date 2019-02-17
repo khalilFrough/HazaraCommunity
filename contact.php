@@ -30,9 +30,12 @@ $pageId=4;
                   <textarea  name="message" onkeyup="messageValidation();" id="message" rows="10"cols="32"></textarea>
                   <p><span id="msg"></span></p>
                   <p><span><label for="rememberMe">Remember me:</label></span>
+                  <br>
                   <input type="checkbox"name="remember"id="rememberMe"></p>
+                  <br>
                   <div class="submit-button">
                      <p><input class="uk-button uk-button-primary uk-button-large"type="submit"name="submit" id="submit"value="submit"></p>
+                     <br>
                      <p>By pressing the submit button you will agree to our <span><a href="#">terms and policies</a></span></p>
                   </div>
                   
@@ -42,13 +45,20 @@ $pageId=4;
       <!-- the map section starts here -->
          <div class="map-address">
             <h1>Our address and other contact detials: </h1>
-            <img src="../Media/2.jpg" alt="Map picutre here">
+            <br><br><br>
+            <img src="../Media/map.jpg" alt="Map picutre here">
+            <br><br><br> <br>
             <p>Altaf Khan CEO:</p>
             <p>contact No: 0412 455 455</p>
             <p>Email address: <a href="mailto:exmaple@yahoo.com">example@yahoo.com</a> </p>
          </div>
+         <p></p>
+         <p></p>
+         <p></p>
+         <p></p>
       </div>
-   </main>
+      
+      </main>
    </div>
    <?php include dirname(__FILE__).'/includes/footer.php';?>
   

@@ -28,7 +28,7 @@ $pageId=1;
                     
                                      <div class="uk-overlay-panel uk-overlay-background">
                                             <h1 class="uk-text-center">Hazara Brimbank Community</h1>
-                                            <h3 class="uk-text-center">The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>Hormony amongst the Hazaras who live in Brimbank area.</h3>   
+                                            <h3 class="uk-text-center">The <a href="#">Hazara Brimbank community</a> is founded, to create Strong<br>connection amongst the Hazaras who live in Brimbank area.</h3>   
                                             <p class="uk-text-center"><button id="secreat"href="#" class="uk-button uk-button-primary uk-button-small">About Us</button></p>
                                             <p class="uk-text-center"><a href="aboutUs.php" class="uk-button-primary uk-button uk-button-large">About Us</a></p> 
                                      </div>
@@ -58,19 +58,19 @@ $pageId=1;
     <div class="uk-container uk-container-center">
             <div class="bg-color">
             <!--  our Programs starts here here -->
-                <h1 class="titleText">We Facilitate Varity of Activites</h1>
+                <h1 class="titleText">We Facilitate Varity of Activities</h1>
                 <div class="container grid-3 center">
                     <div class="center items">
                         <h3>Community Support</h3>
                         <i class="fas fa-hands-helping fa-3x"></i>
-                        <p class="item-left"class="item-left">The communty provides alot of supports around community awareness regarding their rights in Austrlaian community. Furthermore, The communty also arranges public meetings with the local council.</p>
+                        <p class="item-left"class="item-left">The community provides a lot of supports around community awareness regarding their rights in Australian community. Furthermore, The community also arranges public meetings with the local council.</p>
                         <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
 
                     <div class="center itmes">
                         <h3>Classes</h3>
                         <i class="fas fa-chalkboard-teacher fa-3x"></i>
-                        <p class="item-left">There are alot of activites for the community members, one of the most important acivity is Dari classes for the kids. Interested community memebers can join the classes.</p>
+                        <p class="item-left">There are a lot of activities for the community members, one of the most important activity is Dari classes for the kids. Interested community members can join the classes.</p>
                         <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
 
@@ -78,8 +78,8 @@ $pageId=1;
                         <h3>Events</h3>
                         <i class="fas fa-calendar-week fa-3x"></i>
                          <p class="item-left">
-                            Nowroz event<br>
-                            Shaban<br>
+                            Now-roz event<br>
+                            15th Of Shaban<br>
                             Eids<br>
                             Moharam<br>
                          </p>
@@ -89,18 +89,18 @@ $pageId=1;
                     <div class="center items">
                         <h3>Volunteering</h3>
                         <i class="fas fa-praying-hands fa-3x"></i>   
-                        <p class="item-left"> The community helps some community members to get engaged in volunteering works with differnt orginization. Currently, two community members are engaged with co-health.</p>
+                        <p class="item-left"> The community helps some community members to get engaged in volunteering works with different organization. Currently, two community members are engaged with co-health.</p>
                         <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
                     <div class="center itmes">
                         <h3>Activites</h3>
-                        <i class="fas fa-skating fa-3x"></i><p class="item-left"> The community leader and other volunteers always works hard to compile the list of differnt activites around the Brimbank community for the community members such as play group, and ...</p>
+                        <i class="fas fa-skating fa-3x"></i><p class="item-left"> The community leader and other volunteers always works hard to compile the list of different activates around the Brimbank community for the community members such as play group, and ...</p>
                         <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
                     <div class="center itmes">
                         <h3>Sports</h3>
                         <i class="fas fa-football-ball fa-3x"></i>
-                        <p class="item-left"> The community has some arrangements with some local sports facalaties to accmodate sports sessions for the community members. Furthermore, community has a soccer team. </p>
+                        <p class="item-left"> The community has some arrangements with some local sports facilities to accommodate sports sessions for the community members. Furthermore, community has a soccer team. </p>
                         <a href="#" class="uk-button uk-button-primary">Read more</a>
                     </div>
                     
@@ -116,7 +116,8 @@ $pageId=1;
 
                                 <div>
                                     <h2 class="allAboutUs">All about us</h2>
-                                    <p class="item-left"> Hazara Brimbank Community was established by active members of Hazara Refugees who lives in the Brimbank area. When established the communty had only 10 families registered. by the passage of time and the growth of Hazara communty  and families in the Western Suburbs specially in the Brimbank area the number of communty members also increased. To date, there are more than 120 families registerd in the Hazara Brimbank Community. The community is activlty involoved in social, caltural and tridational events. Please read more in the about us page. </p>
+                                    <p class="item-left"> The Hazara Brimbank Community was established by active members of Hazara Refugees who lives in the Brimbank area. When first established the community had only 10 families registered.</p> 
+                                    <p class="item-left"> By the passage of time and the growth of Hazara community and families in the Western Suburbs specially in the Brimbank area the number of community members also increased. To date, there are more than 100 families registered in the Hazara Brimbank Community. The community is activity involved in social, cultural and traditional events. Please read more in the about us page. </p>
                                 </div>
                             </div> 
                         </div>
@@ -131,3 +132,4 @@ $pageId=1;
   
 </body>
 </html>
+

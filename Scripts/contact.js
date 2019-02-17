@@ -47,7 +47,8 @@ I tried alot but could not find the solution*/
             return false; 
         }
         if(!email.match(/^[A-Za-z0-9.-_]@[A-Za-z]*[\.][A-Za-z]{2,3}$/)&
-        !email.match(/^[A-Za-z0-9.-_]*[a-zA-Z]*[\.][A-Za-z]{2,4}[\.][A-Za-z]{3}[\.][A-Za-z]{2,3}$/)& !email.match(/^[A-Za-z-._]*[@][a-zA-Z]*[/.][A-Za-z]{2,4}[/.][a-zA-Z]{2}$/)){
+        !email.match(/^[A-Za-z0-9.-_]*[a-zA-Z]*[\.][A-Za-z]{2,4}[\.][A-Za-z]{3}[\.][A-Za-z]{2,3}$/)& !email.match(/^[A-Za-z-._]*[@][a-zA-Z]*[/.][A-Za-z]{2,4}[/.][a-zA-Z]{2}$/)
+        &!email.match(/^[A-Za-z]*[.][a-zA-Z]*[@][a-zA-Z]*[.]{1}[a-zA-Z]{3}$/)){
             printMessage("Not valid email address","emailError","red");
             return false; 
         }

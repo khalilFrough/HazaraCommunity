@@ -16,7 +16,7 @@ $pageId=4;
     <div class=" grid-2 bg-color contact-center">
          <!--  the form starts here -->
          <div class="form">
-               <form action="" method="post">
+               <form action="sendEmail.php" method="post">
                   <p><span><label for="name">Name:</label></span> </p>
                   <input class="input" type="text" name="name" id="name" onkeyup="nameValidation();" placeholder="eg. First Last" required>
                   <p><span id="nameError"></span></p>
@@ -30,7 +30,6 @@ $pageId=4;
                   <textarea  name="message" onkeyup="messageValidation();" id="message" rows="10"cols="32"></textarea>
                   <p><span id="msg"></span></p>
                   <p><span><label for="rememberMe">Remember me:</label></span>
-                  <br>
                   <input type="checkbox"name="remember"id="rememberMe"></p>
                   <br>
                   <div class="submit-button">

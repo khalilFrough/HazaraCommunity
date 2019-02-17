@@ -259,9 +259,15 @@ textarea:hover{
     .grid-3{
         display: grid; 
         grid-template-columns: repeat(2, 1fr);
-        grid-gap: 10px; 
+        grid-gap: 1.5em; 
  
     }
+    .activityContent{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-gap:1.5em;
+    }
+
     .grid-2{
         display: grid; 
         grid-template-columns: repeat(1,1fr);
@@ -292,6 +298,10 @@ textarea:hover{
     .grid-2{
         grid-template-columns: 1fr;
         
+    }
+    .activityContent{
+        display: grid;
+        grid-template-columns: 1fr;
     }
     .grid-2.bg-color{
         text-align: center; 

@@ -15,18 +15,24 @@ $pageId=3;
             <img src="./Media/media/img1.jpg" id="current">
         </div>
     </div>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quae neque architecto corrupti dolorem nostrum vel tempora, ducimus dicta ipsam, a natus, accusamus optio itaque debitis maxime porro consequatur provident.</p>
+    <p>The following pictures are taken from differnt events such as: 
+        <ul>
+            <li>15th of Shaban</li>
+            <li>Muharam</li>
+            <li>Social Activity</li>
+        </ul>
+    </p>
 
 <div class="thumbnails">
         <div class="imgs">
             <img src="./Media/media/img1.jpg">
             <img src="./Media/media/img2.jpg">
             <img src="./Media/media/img3.jpg">
-            <img src="./Media/media/img1.jpg">
+            <img src="./Media/media/img4.jpg">
             <img src="./Media/media/img5.jpg">
-            <img src="./Media/media/img1.jpg">
-            <img src="./Media/media/img2.jpg">
-            <img src="./Media/media/img3.jpg">
+            <img src="./Media/media/img6.jpg">
+            <img src="./Media/media/img7.jpg">
+            <img src="./Media/media/img8.jpg">
         </div>
     
 </div>
